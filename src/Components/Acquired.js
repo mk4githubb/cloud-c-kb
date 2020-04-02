@@ -5,7 +5,7 @@ import css_config from "./css_config";
 const Acquired = () => {
     return (
         <div style={css_config.acquired_background}>
-            <Grid verticalAlign={"middle"} columns={3}>
+            <Grid verticalAlign={"middle"} columns={3} stackable>
                 <GridColumn verticalAlign={"middle"} width={5} textAlign={"right"}>
                     <Image src={require('../resources/logo.svg')} size={'tiny'} floated={"right"}/>
                 </GridColumn>

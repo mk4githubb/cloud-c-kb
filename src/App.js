@@ -10,19 +10,19 @@ import LetsChat from "./Components/LetsChat";
 import Azure_services from "./Components/Azure_Services";
 
 function App() {
-  return (
-      <div>
-        <Navbar/>
-        <PurpleBox/>
-        <KnowledgeBaseText>
-          <AllCards/>
-          <AWS_Services/>
-          <Azure_services/>
-          <LetsChat/>
-        </KnowledgeBaseText>
-        <Footer/>
-      </div>
-  );
+    return (
+        <div>
+            <Navbar/>
+            <PurpleBox/>
+            <KnowledgeBaseText>
+                <AllCards/>
+                <AWS_Services/>
+                <Azure_services/>
+                <LetsChat/>
+            </KnowledgeBaseText>
+            <Footer/>
+        </div>
+    );
 }
 
 export default App;
