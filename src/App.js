@@ -1,25 +1,27 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import Navbar from "./Components/Navbar";
+import PurpleBox from "./Components/PurpleBox";
+import KnowledgeBaseText from "./Components/KnowledgeBaseText";
+import AllCards from "./Components/AllCards";
+import AWS_Services from "./Components/AWS_Services";
+import Footer from "./Components/Footer";
+import LetsChat from "./Components/LetsChat";
+import Azure_services from "./Components/Azure_Services";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+      <div>
+        <Navbar/>
+        <PurpleBox/>
+        <KnowledgeBaseText>
+          <AllCards/>
+          <AWS_Services/>
+          <Azure_services/>
+          <LetsChat/>
+        </KnowledgeBaseText>
+        <Footer/>
+      </div>
   );
 }
 

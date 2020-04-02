@@ -36,3 +36,46 @@
     transform: rotate(360deg);
   }
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('//db.onlinewebfonts.com/c/65ded642716f79f0fcf568897d345427?family=Volte');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,500&display=swap');
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'Roboto', source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  monospace;
+}
+
+/* Clearing default table and Segment borders */
+.ui.table tr td { border-top: 0px !important; }
+.ui.segment {
+  border: 0px !important;
+  box-shadow: none;
+
+}
+
+.ui.menu {
+  border: 0px !important;
+  box-shadow: none;
+  font-family: 'Roboto', source-code-pro, Menlo, Monaco, Consolas, 'Courier New', serif;
+}
+
+body .ui.card, body .ui.cards>.card{
+  box-shadow: #FFFFFF;
+  background: #FFFFFF;
+}
+
+.ui.list {
+  font-family: 'Roboto', source-code-pro, Menlo, Monaco, Consolas, 'Courier New', serif;
+  font-size: 14px;
+  color: #6B7C94;
+}

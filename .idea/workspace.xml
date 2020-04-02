@@ -3,6 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="254015fc-3603-419c-abaf-2371fcc3b474" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Components/Azure_Services.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Azure_Services.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585802637787</updated>
-      <workItem from="1585802639813" duration="878000" />
+      <workItem from="1585802639813" duration="1330000" />
     </task>
     <task id="LOCAL-00001" summary="Init Repo">
       <created>1585803621185</created>
@@ -142,7 +148,21 @@
       <option name="project" value="LOCAL" />
       <updated>1585804100876</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Add Lets Chat component">
+      <created>1585804163363</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1585804163363</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Add Footer component">
+      <created>1585804194020</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1585804194020</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,16 +180,34 @@
     <MESSAGE value="Added AWS services card component" />
     <MESSAGE value="Added Azure services card component" />
     <MESSAGE value="Added Azure services card component and css config" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Azure services card component and css config" />
+    <MESSAGE value="Add Lets Chat component" />
+    <MESSAGE value="Add Footer component" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Footer component" />
   </component>
   <component name="WindowStateProjectService">
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585803573875">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1585803573874" />
-    <state x="271" y="23" width="778" height="794" key="CommitChangelistDialog2" timestamp="1585804100680">
+    <state x="271" y="23" width="778" height="794" key="CommitChangelistDialog2" timestamp="1585804193838">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="271" y="23" width="778" height="794" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1585804100680" />
+    <state x="271" y="23" width="778" height="794" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1585804193838" />
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1585804428745">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1585804428745" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1585804428743">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1585804428743" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1585804428741">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1585804428741" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1585804428745">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1585804428745" />
   </component>
 </project>

@@ -3,7 +3,7 @@ import {Button, Grid, GridColumn, GridRow, Header, Image, Table} from "semantic-
 import css_config from "./css_config";
 import HeaderSubHeader from "semantic-ui-react/dist/commonjs/elements/Header/HeaderSubheader";
 
-const PartSix = () => {
+const Azure_services = () => {
 
     const init_Azure_table = () => {
         let i = 0;
@@ -62,4 +62,4 @@ const PartSix = () => {
 
 };
 
-export default PartSix;
+export default Azure_services;
