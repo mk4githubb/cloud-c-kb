@@ -2,14 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="254015fc-3603-419c-abaf-2371fcc3b474" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/resources/aws-badge-156cf61e0b1747e489436be0082f82f31c9780e0acb3c926f2a0a9a06bc21aff.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/logo-product-aws-fe0bb3dcdf02e650014a823f03b13263b55b39a1ed4bc2449e01a74f7bf3d2d5.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/logo-product-azure-25e59d27a8303021a6b7cfb01c4a25d9fa05c4b2c529bb2ee6364c771d119f41.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/logo-product-gcp-03f4a17f715b7b1fa75ea5ff8d803d8d81623fd1769eaaa0b07a3668531468e9.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/logo-square-aws-b7740d9db437e8f3e88b05d346db4eefbc8ed8a3fa69509dccd51feb6bc9f880.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/logo-square-azure-59bb73b7a7a100098b296fc1be20241e242659e98bd20e0dec07487cba4ad490.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/logo-square-trend-micro-conformity-5debb7bc01be6e756cc098cf5472388ddaecfd13d00d4fb6488eabc3067ee5b4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/logo-trend-micro-conformity-a9f2ff7ece6ba93793cec22de96daeba86528b2f2b937e8efdebae20db47ffa5.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +13,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZyDrIuJgDZpMalEEFfHAfqsIwB" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -69,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585802637787</updated>
-      <workItem from="1585802639813" duration="637000" />
+      <workItem from="1585802639813" duration="878000" />
     </task>
     <task id="LOCAL-00001" summary="Init Repo">
       <created>1585803621185</created>
@@ -99,7 +93,56 @@
       <option name="project" value="LOCAL" />
       <updated>1585803775578</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added logos">
+      <created>1585803888846</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1585803888846</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added purple box components">
+      <created>1585803928133</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1585803928133</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added KB text component">
+      <created>1585803977613</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1585803977613</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added all services card component">
+      <created>1585804011831</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1585804011831</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added AWS services card component">
+      <created>1585804031870</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1585804031870</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added Azure services card component">
+      <created>1585804061079</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1585804061079</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added Azure services card component and css config">
+      <created>1585804100876</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1585804100876</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,16 +153,23 @@
     <MESSAGE value="Added component for Acquired" />
     <MESSAGE value="Added Trend Micro Logo" />
     <MESSAGE value="Added Navbar component" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Navbar component" />
+    <MESSAGE value="Added logos" />
+    <MESSAGE value="Added purple box components" />
+    <MESSAGE value="Added KB text component" />
+    <MESSAGE value="Added all services card component" />
+    <MESSAGE value="Added AWS services card component" />
+    <MESSAGE value="Added Azure services card component" />
+    <MESSAGE value="Added Azure services card component and css config" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Azure services card component and css config" />
   </component>
   <component name="WindowStateProjectService">
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585803573875">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="458" y="204" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1585803573874" />
-    <state x="271" y="48" key="CommitChangelistDialog2" timestamp="1585804031681">
+    <state x="271" y="23" width="778" height="794" key="CommitChangelistDialog2" timestamp="1585804100680">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="271" y="48" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1585804031681" />
+    <state x="271" y="23" width="778" height="794" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1585804100680" />
   </component>
 </project>
